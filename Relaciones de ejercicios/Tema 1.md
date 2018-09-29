@@ -20,6 +20,14 @@ de un ordenador tipo servidor y calcular su coste de amortización a
 cuatro y siete años. [Consultar este artículo en Infoautónomos sobre el
 tema.](http://infoautonomos.eleconomista.es/consultas-a-la-comunidad/988/)**
 
+Elegimos un ordenador de tipo servidor seleccionado aleatoriamente:
+**Servidor Fujitsu Primergy Intel Xeon E3-1225V6/8GB/2TB**, que según
+la página
+[pccomponentes](https://www.pccomponentes.com/servidor-fujitsu-primergy-intel-xeon-e3-1225v6-8gb-2tb) nos
+costaría 619€. 
+
+
+
 ## Ejercicio 2.
 
 **Usando las tablas de precios de servicios de alojamiento en Internet
@@ -81,8 +89,16 @@ Se ha instalado KVM como hipervisor.
 
 **Darse de alta en servicios de nube usando ofertas gratuitas o
 cupones que pueda proporcionar el profesor.**
+
+Se ha elegido la nube de [Azure](https://azure.microsoft.com/es-es/)
+para ello. 
    
 ## Ejercicio 6.
 
 **Darse de alta en una web que permita hacer pruebas con alguno de
 los sistemas de gestión de nube anteriores.**
+
+Siguiendo con el registro realizado en el ejercicio anterior, en el
+mismo portal, hacemos uso de la
+herramienta
+[DevtestLab](https://azure.microsoft.com/en-us/services/devtest-lab/).
