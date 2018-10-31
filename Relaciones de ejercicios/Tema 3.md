@@ -20,4 +20,4 @@ la
 [guía de Heroku para node.js](https://devcenter.heroku.com/articles/getting-started-with-nodejs) se
 ha lanzado [esta aplicación](https://pacific-hamlet-38054.herokuapp.com/) a modo de prueba.
 
-Con el código disponible [aquí](../Ejercicios Tema 3/Probando express)
+Con el código disponible [aquí](https://github.com/jojelupipa/Ejercicios_IV_18_19/tree/master/Ejercicios%20Tema%203/Probando%20express)
