@@ -1,0 +1,14 @@
+{
+  "name": "probando-express",
+  "version": "1.0.0",
+  "description": "Prueba para el framework express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@jojelupipa",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
