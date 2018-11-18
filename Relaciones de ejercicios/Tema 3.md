@@ -106,7 +106,20 @@ describe('GET /', function() {
 
 ## Ejercicio 5
 
+**Instalar y echar a andar tu primera aplicación en Heroku.**
+
 Siguiendo los pasos de
 la
 [guía de Heroku para node.js](https://devcenter.heroku.com/articles/getting-started-with-nodejs) se
 ha lanzado [esta aplicación](https://pacific-hamlet-38054.herokuapp.com/) a modo de prueba.
+
+
+## Ejercicio 6
+
+**Usar como base la aplicación de ejemplo de heroku y combinarla con
+la aplicación en node que se ha creado anteriormente. Probarla de
+forma local con foreman. Al final de cada modificación, los tests
+tendrán que funcionar correctamente; cuando se pasen los tests, se
+puede volver a desplegar en heroku.** 
+
+La aplicación del [ejercicio 1](## Ejercicio 1) cumple estas características
