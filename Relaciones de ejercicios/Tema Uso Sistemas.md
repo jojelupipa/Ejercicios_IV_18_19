@@ -71,4 +71,4 @@ con problemas de memoria y esto ha sido complicado de realizar, en el
 momento nos encontramos en tareas de mantenimiento para conseguir el
 espacio necesario para esta prueba)*
 
-
+![:(](../img/storageProblems.png)
